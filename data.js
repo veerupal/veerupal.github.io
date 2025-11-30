@@ -17,7 +17,8 @@ const portfolioData = {
         socialLinks: [
             { platform: "GitHub", url: "https://github.com/veerupal", icon: "fab fa-github" },
             { platform: "LinkedIn", url: "https://linkedin.com/in/veerupal2323", icon: "fab fa-linkedin" },
-            { platform: "Email", url: "mailto:veerupal2323@gmail.com", icon: "fas fa-envelope" }
+            { platform: "Email", url: "mailto:veerupal2323@gmail.com", icon: "fas fa-envelope" },
+            { platform: "Trailhead", url: "https://www.salesforce.com/trailblazer/vepal1", icon: "fab fa-salesforce" }
         ]
     },
 
@@ -119,7 +120,7 @@ const portfolioData = {
             },
             {
                 name: "Certifications",
-                items: ["Platform Developer II", "Platform Developer I", "Administrator", "Agentforce Specialist", "AI Associate"]
+                items: ["Salesforce Certified Platform Developer II", "Salesforce Certified Platform Developer I", "Salesforce Certified Administrator", "Salesforce Certified Agentforce Specialist", "Salesforce Certified AI Associate"]
             }
         ]
     },
@@ -129,6 +130,6 @@ const portfolioData = {
         title: "Get In Touch",
         description: "I'm currently open to new opportunities in the Salesforce ecosystem. Feel free to reach out!",
         email: "veerupal2323@gmail.com",
-        phone: "+91 98765 43210" // Update this with your real number
+        phone: "+91 9125574307" // Update this with your real number
     }
 };
